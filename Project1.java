@@ -1,10 +1,4 @@
-/*
-Course:         TCSS 142 - Introduction to object oriented programming
-File Name:      Project.java
-Assignment:     1
-Due Date:       10/19/2021
-Instructor:     Mr. Schuessler
- */
+
 
 /**
  *  This program draws a picture of the space needle at different

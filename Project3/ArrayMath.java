@@ -1,11 +1,4 @@
-/*
- * Course: TCSS142 – Introduction to Object-Oriented Programming
- * File Name: Project3.java
- * Assignment: 3
- * Due Date: 11/30/2021
- * Instructor: Mr. Schuessler
- */
- 
+
  /**
   * This module contains the Array operations of 
   * add, subtract, multiply, and checks if the dimensions
